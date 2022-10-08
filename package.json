@@ -1,0 +1,23 @@
+{
+  "name": "odev-bir",
+  "version": "1.0.0",
+  "description": "ilk react odevim",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamazanOzmert/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/RamazanOzmert/react/issues"
+  },
+  "homepage": "https://github.com/RamazanOzmert/react#readme"
+}
