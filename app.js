@@ -10,6 +10,5 @@ import axios from 'axios';
     
     return (users,posts);
 };
-
  export default getData;
 
